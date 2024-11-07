@@ -2,4 +2,5 @@
 
 Raw Kafka version without Strimzi on Kubernetes.
 
-- [Quickstart](./confluent-local/README.md)
+- [Quickstart](./setup-local/README.md)
+- [Kafka with SSL](./ssl/README.md)
